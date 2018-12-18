@@ -1,0 +1,14 @@
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\WhatIhaveLearned\WhatIhaveLearned\bin\Release\WhatIhaveLearned.exe.config
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\WhatIhaveLearned\WhatIhaveLearned\bin\Release\WhatIhaveLearned.exe
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\WhatIhaveLearned\WhatIhaveLearned\bin\Release\WhatIhaveLearned.pdb
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\WhatIhaveLearned\WhatIhaveLearned\obj\Release\WhatIhaveLearned.csprojResolveAssemblyReference.cache
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\WhatIhaveLearned\WhatIhaveLearned\obj\Release\WhatIhaveLearned.frmCalculations.resources
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\WhatIhaveLearned\WhatIhaveLearned\obj\Release\WhatIhaveLearned.frmConcatenation.resources
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\WhatIhaveLearned\WhatIhaveLearned\obj\Release\WhatIhaveLearned.frmMain.resources
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\WhatIhaveLearned\WhatIhaveLearned\obj\Release\WhatIhaveLearned.frmFunctions.resources
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\WhatIhaveLearned\WhatIhaveLearned\obj\Release\WhatIhaveLearned.frmLoops.resources
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\WhatIhaveLearned\WhatIhaveLearned\obj\Release\WhatIhaveLearned.Properties.Resources.resources
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\WhatIhaveLearned\WhatIhaveLearned\obj\Release\WhatIhaveLearned.csproj.GenerateResource.cache
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\WhatIhaveLearned\WhatIhaveLearned\obj\Release\WhatIhaveLearned.csproj.CoreCompileInputs.cache
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\WhatIhaveLearned\WhatIhaveLearned\obj\Release\WhatIhaveLearned.exe
+C:\Users\KingLouisTheGreat\OneDrive\Documents\Visual Studio 2017\WhatIhaveLearned\WhatIhaveLearned\obj\Release\WhatIhaveLearned.pdb
